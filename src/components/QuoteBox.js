@@ -7,8 +7,6 @@ import Author from "./Author";
 import NewQuote from "./NewQuote";
 import ShareQuote from "./ShareQuote";
 
-import quotes from "../data/quotes.json";
-
 function QuoteBox(props) {
   const [currentQuote, setCurrentQuote] = useState({ content: "", author: "" });
   console.log(currentQuote);
