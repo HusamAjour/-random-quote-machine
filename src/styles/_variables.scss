@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&display=swap');
+
+$quoteFont: "Nunito Sans", sans-serif;
+$authorFont: 'Nunito Sans', sans-serif;
+
+$primary-color: #282c34;
+$secondary-color: #61dafb;
+
+:export {
+    primaryColor: $primary-color;
+    secondaryColor: $secondary-color;
+  }

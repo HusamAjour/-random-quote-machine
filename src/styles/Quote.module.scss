@@ -1,0 +1,19 @@
+@import './variables.scss';
+
+.quote{
+    position: relative;
+    margin: 0;
+    font-family: $quoteFont;
+    font-size: 28px;
+
+}
+
+.quoteIcon{
+    font-size: 25px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.quoteBox{
+    display: flex;
+}
