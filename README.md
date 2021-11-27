@@ -6,6 +6,29 @@ This project is part of the freeCodeBotcamp Front End Development Libraries curr
 
 In this project, I practiced some front end technologies, libraries and skills such as using React, SCSS, React hooks, React context, API calls, and other things.
 
+## Technologies and Libraries
+
+### SASS
+
+I thought of this project as an oppurtunity to practise `SASS/SCSS`. I learned how to use variables, nesting, psuedo selectors and psuedo elements.
+
+### FontAwesome
+
+I used the `FontAwesome` icons toolkit for free icons. It is an awesome library and the great thing about it that it offers free icons!
+
+### React Context
+
+I managed to practise the concept of `React Context` to use shared state between components instead of using props drill. In this project, I used one context to store the random color and another context for the function that generates the random color.
+
+### React Hooks
+
+I used React hooks in this project such as `useState`, `useEffect`, `useContext` in addition to custom hooks such as `useRandomColor` and `useRandomColorUpdate`.
+
+### quotable API
+
+I used the quotable API by [Luke Peavey](https://github.com/lukePeavey/quotable) to fetch random quotes every time the use clicks on the "New quote" button.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
